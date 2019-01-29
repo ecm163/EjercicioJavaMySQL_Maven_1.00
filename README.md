@@ -23,7 +23,7 @@ Para acceder a la base de datos y su tabla yo tengo de nombre de usuario simplem
 
 Si desea probarlo con otro puerto (si no es el habitual 3306 para MySQL) y con otro nombre de base de datos, tabla, usuario o contraseña, tendrá que ir al paquete del programa 'modelo', luego a su clase 'Modelo', y ahí en el método 'Conexion()' hacer las modificaciones pertinentes.
 
-El progrma se ejecuta desde la clase Pricipal, no desde el JFrame Form Vista.
+El programa se ejecuta desde la clase 'Principal', no desde el JFrame Form 'Vista'.
 
 Un saludo.
 
